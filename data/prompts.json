@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": "1",
+    "title": "بورتريه فاخر",
+    "category": "Portrait",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/MONTZR-DEV/kalisha-content@main/images/Screenshot.png",
+    "promptText": "Create a luxury cinematic portrait with soft studio lighting, premium fashion styling, highly detailed skin texture, elegant composition, realistic shadows, ultra clean background."
+  },
+  {
+    "id": "2",
+    "title": "إعلان منتج",
+    "category": "Product",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/MONTZR-DEV/kalisha-content@main/images/img2.jpg",
+    "promptText": "Create a premium product advertisement with dramatic lighting, reflective surface, high-end commercial style, realistic details, sharp focus, luxury branding mood."
+  },
+  {
+    "id": "3",
+    "title": "بورتريه شخصية",
+    "category": "صور مشاهير",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/MONTZR-DEV/kalisha-content@main/images/community.jpg",
+    "promptText": "فتاة شابة ذات بشرة فاتحة وشعر بني داكن مبلل ومشدود للخلف، تبدو بملامح طبيعية وتعابير هادئة مع تضييق خفيف في العينين بسبب ضوء الشمس."
+  }
+]
