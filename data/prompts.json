@@ -18,87 +18,10 @@
     "title": "بورتريه شخصية",
     "category": "صور مشاهير",
     "imageUrl": "https://cdn.jsdelivr.net/gh/MONTZR-DEV/kalisha-content@main/images/community.jpg",
-    "promptText": "{
-  "character": {
-    "gender": "female",
-    "Identity": "recemblance of {argument name="celebrity likeness" default="Billie Eilish"}",
-    "age_range": "young adult",
-    "body_type": "slim, natural, proportional",
-    "skin_tone": "light skin tone with warm undertones",
-    "skin_details": "natural skin texture, slight water reflections on skin",
-    "face_shape": "oval face, soft jawline",
-    "facial_expression": "slight squint due to sunlight, relaxed lips, subtle playful expression",
-    "eyes": {
-      "state": "one eye partially closed, one eye squinting",
-      "gaze_direction": "looking directly at the camera from above",
-      "emotion": "calm, carefree, sun-dazzled"
-    },
-    "lips": "natural pink lips, slightly pressed together",
-    "eyebrows": "natural, slightly raised",
-    "hair": {
-      "color": "dark brown",
-      "style": "wet hair slicked back",
-      "visibility": "mostly pulled back, minimal loose strands"
-    }
-  },
+    "promptText": "فتاة شابة ذات بشرة فاتحة وشعر بني داكن مبلل ومشدود للخلف، تبدو بملامح طبيعية وتعابير هادئة مع تضييق خفيف في العينين بسبب ضوء الشمس. تلتقط صورة سيلفي من زاوية علوية، وجهها مرفوع نحو الكاميرا وجزءها العلوي ظاهر بينما باقي جسدها مغمور في الماء.
 
-  "pose": {
-    "camera_angle": "top-down selfie angle",
-    "camera_distance": "close-up to medium shot",
-    "head_position": "tilted slightly upward toward the camera",
-    "shoulders": "raised slightly out of the water",
-    "arms": {
-      "position": "arms extended upward holding the camera",
-      "visibility": "upper arms visible near frame edges"
-    },
-    "body_orientation": "upper torso facing camera, submerged from upper chest downward",
-    "posture": "relaxed, natural, casual"
-  },
+المشهد في بحر أو ماء مفتوح بلون أزرق مائل للأخضر، والماء صافٍ مع انعكاسات ضوء الشمس على البشرة والسطح. ترتدي بيكيني بسيط بلون داكن (أسود أو كحلي).
 
-  "environment": {
-    "location": "open water or calm sea",
-    "water_color": "deep blue-green",
-    "water_clarity": "clear with visible light refraction",
-    "water_effects": "sunlight caustics reflecting on skin and swimsuit",
-    "background": "no visible horizon, only water surrounding subject"
-  },
-
-  "clothing": {
-    "type": "bikini",
-    "color": "dark navy or black",
-    "material": "wet fabric with subtle shine",
-    "fit": "snug, athletic fit",
-    "details": "simple straps, no patterns, minimalistic design"
-  },
-
-  "lighting": {
-    "light_source": "natural sunlight",
-    "light_direction": "top-left, strong direct sunlight",
-    "contrast": "high contrast between highlights and shadows",
-    "highlights": "bright reflections on water and skin",
-    "shadows": "soft shadows on face contours"
-  },
-
-  "mood_and_style": {
-    "mood": "summer, freedom, fresh, intimate",
-    "style": "realistic photography",
-    "aesthetic": "natural, unposed, candid",
-    "color_grading": "warm highlights, cool water tones",
-    "realism_level": "high realism, photo-like"
-  },
-
-  "composition": {
-    "framing": "tight crop, subject centered slightly off-axis",
-    "focus": "sharp focus on face and upper torso",
-    "depth_of_field": "moderate, background water slightly blurred",
-    "symmetry": "asymmetrical, natural selfie composition"
-  },
-
-  "technical": {
-    "camera_type": "smartphone front camera",
-    "lens": "wide angle",
-    "resolution": "high resolution, detailed skin and water tex"
-  }
-}."
+الإضاءة طبيعية وقوية من الشمس، تعطي تباين جميل بين الظلال واللمعان. الأجواء عامة صيفية، حرة وعفوية، بأسلوب تصوير واقعي وكأنه ملتقط بكاميرا هاتف."
   },
 ]
