@@ -4,13 +4,13 @@
     "title": "بورتريه فاخر",
     "category": "Portrait",
     "imageUrl": "https://cdn.jsdelivr.net/gh/MONTZR-DEV/kalisha-content@main/images/Screenshot.png",
-    "prompt": "Create a luxury cinematic portrait with soft studio lighting, premium fashion styling, highly detailed skin texture, elegant composition, realistic shadows, ultra clean background."
+    "promptText": "Create a luxury cinematic portrait with soft studio lighting, premium fashion styling, highly detailed skin texture, elegant composition, realistic shadows, ultra clean background."
   },
   {
     "id": "2",
     "title": "إعلان منتج",
     "category": "Product",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/USERNAME/kalisha-content@main/images/img2.jpg",
-    "prompt": "Create a premium product advertisement with dramatic lighting, reflective surface, high-end commercial style, realistic details, sharp focus, luxury branding mood."
+    "imageUrl": "https://cdn.jsdelivr.net/gh/MONTZR-DEV/kalisha-content@main/images/img2.jpg",
+    "promptText": "Create a premium product advertisement with dramatic lighting, reflective surface, high-end commercial style, realistic details, sharp focus, luxury branding mood."
   }
 ]
