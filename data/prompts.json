@@ -18,6 +18,87 @@
     "title": "بورتريه شخصية",
     "category": "صور مشاهير",
     "imageUrl": "https://cdn.jsdelivr.net/gh/MONTZR-DEV/kalisha-content@main/images/Screenshot.png",
-    "promptText": "Create a luxury cinematic portrait with soft studio lighting, premium fashion styling, highly detailed skin texture, elegant composition, realistic shadows, ultra clean background."
+    "promptText": "{
+  "character": {
+    "gender": "female",
+    "Identity": "recemblance of {argument name="celebrity likeness" default="Billie Eilish"}",
+    "age_range": "young adult",
+    "body_type": "slim, natural, proportional",
+    "skin_tone": "light skin tone with warm undertones",
+    "skin_details": "natural skin texture, slight water reflections on skin",
+    "face_shape": "oval face, soft jawline",
+    "facial_expression": "slight squint due to sunlight, relaxed lips, subtle playful expression",
+    "eyes": {
+      "state": "one eye partially closed, one eye squinting",
+      "gaze_direction": "looking directly at the camera from above",
+      "emotion": "calm, carefree, sun-dazzled"
+    },
+    "lips": "natural pink lips, slightly pressed together",
+    "eyebrows": "natural, slightly raised",
+    "hair": {
+      "color": "dark brown",
+      "style": "wet hair slicked back",
+      "visibility": "mostly pulled back, minimal loose strands"
+    }
+  },
+
+  "pose": {
+    "camera_angle": "top-down selfie angle",
+    "camera_distance": "close-up to medium shot",
+    "head_position": "tilted slightly upward toward the camera",
+    "shoulders": "raised slightly out of the water",
+    "arms": {
+      "position": "arms extended upward holding the camera",
+      "visibility": "upper arms visible near frame edges"
+    },
+    "body_orientation": "upper torso facing camera, submerged from upper chest downward",
+    "posture": "relaxed, natural, casual"
+  },
+
+  "environment": {
+    "location": "open water or calm sea",
+    "water_color": "deep blue-green",
+    "water_clarity": "clear with visible light refraction",
+    "water_effects": "sunlight caustics reflecting on skin and swimsuit",
+    "background": "no visible horizon, only water surrounding subject"
+  },
+
+  "clothing": {
+    "type": "bikini",
+    "color": "dark navy or black",
+    "material": "wet fabric with subtle shine",
+    "fit": "snug, athletic fit",
+    "details": "simple straps, no patterns, minimalistic design"
+  },
+
+  "lighting": {
+    "light_source": "natural sunlight",
+    "light_direction": "top-left, strong direct sunlight",
+    "contrast": "high contrast between highlights and shadows",
+    "highlights": "bright reflections on water and skin",
+    "shadows": "soft shadows on face contours"
+  },
+
+  "mood_and_style": {
+    "mood": "summer, freedom, fresh, intimate",
+    "style": "realistic photography",
+    "aesthetic": "natural, unposed, candid",
+    "color_grading": "warm highlights, cool water tones",
+    "realism_level": "high realism, photo-like"
+  },
+
+  "composition": {
+    "framing": "tight crop, subject centered slightly off-axis",
+    "focus": "sharp focus on face and upper torso",
+    "depth_of_field": "moderate, background water slightly blurred",
+    "symmetry": "asymmetrical, natural selfie composition"
+  },
+
+  "technical": {
+    "camera_type": "smartphone front camera",
+    "lens": "wide angle",
+    "resolution": "high resolution, detailed skin and water tex"
+  }
+}."
   },
 ]
